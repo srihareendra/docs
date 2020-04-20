@@ -1,5 +1,7 @@
 # Welcome to `telety.io`
 
+![logo](./assets/logo.small.png)
+
 👩‍💻The `telety` project was created to facilitate real-time code delivery for on-site and especially virtual settings.
 
 `</>` Useful for presenter-led workshops and training, the application provides real-time streaming of code snippets and TTY inputs to a collaborative space.
@@ -125,8 +127,8 @@ In this way, the embedded telety widget may be used programmatically.
   draggable: true,
   /** present as sidebar (not draggable) */
   sidebar: false,
-  /** target element */
-  targetElement: document.body,
+  /** target element selector */
+  targetElement: 'body',
   /** iframe sandbox */
   sandbox: 'allow-forms allow-scripts allow-same-origin',
 };
