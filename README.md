@@ -46,7 +46,7 @@
 
 ## CLI
 
-The [`telety.io` command line](../cli) creates a secure connection between the TTY interface, and a channel in your profile.
+The [`telety.io` command line](../../cli) creates a secure connection between the TTY interface, and a channel in your profile.
 
 ✨This allows you to host a telety stream directly from your normal flow in the
 terminal.
